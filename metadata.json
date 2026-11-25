@@ -1,0 +1,6 @@
+{
+  "name": "FarmRent",
+  "description": "Rent Farming Equipment Near You — Agricultural machinery rental marketplace for Indian farmers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
